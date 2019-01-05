@@ -1,1 +1,1 @@
-# RubixCube2
+Ultimate rubix solving AI
